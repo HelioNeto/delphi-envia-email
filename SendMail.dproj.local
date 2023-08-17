@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/25 12:08:57.000.132,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/07/25 12:11:13.000.577,F:\ProjetosDelphi\SendEmail_indy\USendMail.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/07/25 12:11:13.000.577,F:\ProjetosDelphi\SendEmail_indy\USendMail.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/07/25 12:11:22.000.779,F:\ProjetosDelphi\SendEmail_indy\SendMail.dproj=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
